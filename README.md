@@ -3,12 +3,19 @@
 Python Repository
 
 # Table of Contents
+
 Graph
+
 Leap Year
+
 Numpy
+
 Pandas
+
 Flight Management Front
+
 Flight Management System
+
 Hello World GUI using Tkinter
 
 # Graph
