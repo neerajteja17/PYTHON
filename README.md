@@ -74,11 +74,4 @@ Features:
 Graphical Interface: Creates a window with a button.
 Interactivity: Clicking the button displays a message.
 
-# Explanation:
-
-tk.Tk(): Initializes the main window.
-Label: Displays text in the window.
-Button: Triggers an action when clicked.
-mainloop(): Starts the Tkinter event loop to display the GUI.
-
 Feel free to contribute or provide suggestions for improvement!
